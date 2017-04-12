@@ -1,0 +1,8 @@
+/Users/anumart/Desktop/CoreSample/bin/Debug/netcoreapp1.1/CoreSample.deps.json
+/Users/anumart/Desktop/CoreSample/bin/Debug/netcoreapp1.1/CoreSample.runtimeconfig.json
+/Users/anumart/Desktop/CoreSample/bin/Debug/netcoreapp1.1/CoreSample.runtimeconfig.dev.json
+/Users/anumart/Desktop/CoreSample/bin/Debug/netcoreapp1.1/CoreSample.dll
+/Users/anumart/Desktop/CoreSample/bin/Debug/netcoreapp1.1/CoreSample.pdb
+/Users/anumart/Desktop/CoreSample/obj/Debug/netcoreapp1.1/CoreSample.AssemblyInfo.cs
+/Users/anumart/Desktop/CoreSample/obj/Debug/netcoreapp1.1/CoreSample.dll
+/Users/anumart/Desktop/CoreSample/obj/Debug/netcoreapp1.1/CoreSample.pdb
