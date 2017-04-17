@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "Service\Service.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestLib", "TestLib\TestLib.csproj", "{1CBA3BD0-7D96-4DF4-89A9-6374F8054688}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiCore", "ApiCore\ApiCore.csproj", "{FA72EE93-7450-44CD-BA83-F49419E51532}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -58,5 +60,17 @@ Global
 		{1CBA3BD0-7D96-4DF4-89A9-6374F8054688}.Release|x64.Build.0 = Release|x64
 		{1CBA3BD0-7D96-4DF4-89A9-6374F8054688}.Release|x86.ActiveCfg = Release|x86
 		{1CBA3BD0-7D96-4DF4-89A9-6374F8054688}.Release|x86.Build.0 = Release|x86
+		{FA72EE93-7450-44CD-BA83-F49419E51532}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA72EE93-7450-44CD-BA83-F49419E51532}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA72EE93-7450-44CD-BA83-F49419E51532}.Debug|x64.ActiveCfg = Debug|x64
+		{FA72EE93-7450-44CD-BA83-F49419E51532}.Debug|x64.Build.0 = Debug|x64
+		{FA72EE93-7450-44CD-BA83-F49419E51532}.Debug|x86.ActiveCfg = Debug|x86
+		{FA72EE93-7450-44CD-BA83-F49419E51532}.Debug|x86.Build.0 = Debug|x86
+		{FA72EE93-7450-44CD-BA83-F49419E51532}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA72EE93-7450-44CD-BA83-F49419E51532}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA72EE93-7450-44CD-BA83-F49419E51532}.Release|x64.ActiveCfg = Release|x64
+		{FA72EE93-7450-44CD-BA83-F49419E51532}.Release|x64.Build.0 = Release|x64
+		{FA72EE93-7450-44CD-BA83-F49419E51532}.Release|x86.ActiveCfg = Release|x86
+		{FA72EE93-7450-44CD-BA83-F49419E51532}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
