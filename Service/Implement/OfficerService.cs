@@ -20,7 +20,10 @@ namespace Service.Implement
             if(string.IsNullOrEmpty(officer.Name)){
                 throw new ArgumentException("Officer name cannot empty");
             }
-            throw new NotImplementedException();
+            if(string.IsNullOrEmpty(officer.Telephone)){
+                throw new ArgumentException("Officer telephone cannot empty");
+            }
+            return this.OfficerRepository.CreateOfficer(officer);
         }
 
         public void GetAllOfficers()
